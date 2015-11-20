@@ -1,0 +1,23 @@
+{
+  "name": "@iwjw/slidescrollbar",
+  "version": "0.0.1",
+  "description": "移动端侧边栏",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtyang/slideScrollBar.git"
+  },
+  "keywords": [
+    "slidebar",
+    "scrollbar"
+  ],
+  "author": "Enzoyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtyang/slideScrollBar/issues"
+  },
+  "homepage": "https://github.com/mtyang/slideScrollBar#readme"
+}
